@@ -1,0 +1,44 @@
+[
+    {
+        "id":"1",
+        "Title":"Avatar",
+        "Poster":"media/avatar.jpg",
+        "Year":"2007",
+        "Type":"movie"
+    },
+    {
+        "id":"2",
+        "Title":"Milagro en la celda 7",
+        "Poster":"media/milagro.jpeg",
+        "Year":"2020",
+        "Type":"movie"
+    },
+    {
+        "id":"3",
+        "Title":"Vis a Vis: Oasis",
+        "Poster":"media/visavis.jpeg",
+        "Year":"2020",
+        "Type":"serie"
+    },
+    {
+        "id":"4",
+        "Title":"La casa de Papel",
+        "Poster":"media/casadepapel.jpeg",
+        "Year":"2020",
+        "Type":"serie"
+    },
+    {
+        "id":"5",
+        "Title":"Vis a Vis: Oasis",
+        "Poster":"media/visavis.jpeg",
+        "Year":"2020",
+        "Type":"serie"
+    },
+    {
+        "id":"6",
+        "Title":"La casa de Papel",
+        "Poster":"media/casadepapel.jpeg",
+        "Year":"2020",
+        "Type":"serie"
+    }
+]
